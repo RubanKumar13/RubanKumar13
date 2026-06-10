@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi, I’m Rubankumar Mohan<br>💻 Software Developer @ Izeon Innovative Pvt Ltd | 🚀 Java Enthusiast | 🌱 Lifelong Learner<br><br>I have 1.5 years of experience in software development, specializing in Java and related technologies. I’m passionate about writing clean, efficient, and scalable code, and I’m always eager to learn new tools and frameworks that enhance my development skills.<br><br>💡 About Me<br>🛠 Core Skills: Java, JSP, Servlets, Spring Boot, MySQL, HTML, CSS, JavaScript.<br><br>🏢 Current Role: Software Developer at Izeon Innovative Pvt Ltd.<br><br>🌱 Currently Learning: Advanced Spring Boot, REST APIs, and Cloud Deployment.<br><br>💬 Love discussing Java concepts and project ideas.<br><br>🤝 Open to collaborating on Java-based projects and open-source contributions.
+👋 Hi, I’m Rubankumar Mohan<br>💻 Software Developer @ Izeon Innovative Pvt Ltd | 🚀 Java Enthusiast | 🌱 Lifelong Learner<br><br>I have 2.5 years of experience in software development, specializing in Java and related technologies. I’m passionate about writing clean, efficient, and scalable code, and I’m always eager to learn new tools and frameworks that enhance my development skills.<br><br>💡 About Me<br>🛠 Core Skills: Java, JSP, Servlets, Spring Boot, MySQL, HTML, CSS, JavaScript.<br><br>🏢 Current Role: Software Developer at Izeon Innovative Pvt Ltd.<br><br>🌱 Currently Learning: Advanced Spring Boot, REST APIs, and Cloud Deployment.<br><br>💬 Love discussing Java concepts and project ideas.<br><br>🤝 Open to collaborating on Java-based projects and open-source contributions.
 
 
 ## 🌐 Socials:
